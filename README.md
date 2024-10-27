@@ -1,1 +1,1 @@
-# Find-Wheather-In-cmd By using curl Command
+# Find-Weather-In-cmd By using curl Command
